@@ -7,6 +7,7 @@ Blockchain Frontier Technology Tracking
 
 ## 技术发展
 [三分钟了解隔离见证](https://zhuanlan.zhihu.com/p/32613487) 
+
 [比特币Transaction入门](https://klmoney.wordpress.com/bitcoin-dissecting-transactions)
 ## 项目解读
 
