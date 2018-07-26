@@ -6,6 +6,8 @@ Blockchain Frontier Technology Tracking
 
 
 ## 技术发展
+[共识机制简介](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Technology/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6%E7%AE%80%E4%BB%8B.md)
+
 [三分钟了解隔离见证](https://zhuanlan.zhihu.com/p/32613487) 
 
 [比特币Transaction入门](https://klmoney.wordpress.com/bitcoin-dissecting-transactions)
