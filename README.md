@@ -11,6 +11,8 @@ Blockchain Frontier Technology Tracking
 
 [三分钟了解隔离见证](https://zhuanlan.zhihu.com/p/32613487) 
 
+[闪电网络优缺点介绍](https://medium.com/@argongroup/bitcoin-lightning-network-7-things-you-should-know-604ef687af5a)
+
 [比特币Transaction入门](https://klmoney.wordpress.com/bitcoin-dissecting-transactions)
 ## 项目解读
 
