@@ -3,6 +3,7 @@ Blockchain Frontier Technology Tracking
 > 收集前沿的区块链研究、最新项目及相关解读
 ## 前沿研究
 
+[Gosig共识论文解读](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Gosig/Gosig%E5%85%B1%E8%AF%86%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB.md)
 
 
 ## 技术发展
