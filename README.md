@@ -24,6 +24,7 @@ Blockchain Frontier Technology Tracking
 [闪电网络优缺点介绍](https://medium.com/@argongroup/bitcoin-lightning-network-7-things-you-should-know-604ef687af5a)
 
 ## 学习资料
+比特币白皮书 [英文](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_en.pdf) [中文](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_cn.pdf)
 
 [精通比特币](http://zhibimo.com/read/wang-miao/mastering-bitcoin/) 精通比特币（中文翻译版）
 
