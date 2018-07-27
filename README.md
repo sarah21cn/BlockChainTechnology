@@ -23,18 +23,44 @@ Blockchain Frontier Technology Tracking
 
 [闪电网络优缺点介绍](https://medium.com/@argongroup/bitcoin-lightning-network-7-things-you-should-know-604ef687af5a)
 
+[初链黄皮书解读]( https://github.com/codereba/simpleai/blob/master/TrueChain.md)
+
+[共有链的最新挑战](https://ethfans.org/posts/fundamental-challenges-with-public-blockchains-part-1)
+
 ## 学习资料
-比特币白皮书 [英文](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_en.pdf) [中文](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_cn.pdf)
+### 文本资料
+比特币白皮书 [英文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_en.pdf) [中文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_cn.pdf)
 
 [精通比特币](http://zhibimo.com/read/wang-miao/mastering-bitcoin/) 精通比特币（中文翻译版）
 
 [比特币与数字货币技术](https://www.coursera.org/learn/cryptocurrency) Coursera上普林斯顿大学的公开课（English），后续会整理中文版笔记
 
+[zastrin关于Ethereum只能合约开发](https://cn.zastrin.com/)
+
 [比特币Transaction入门](https://klmoney.wordpress.com/bitcoin-dissecting-transactions)
 
-## 项目解读
+比特币开发指南 [英文版](https://bitcoin.org/en/developer-guide)  [中文版](https://www.yiyibooks.cn/Gamma/bitcoin/developer-guide.html)
 
-[初链黄皮书解读]( https://github.com/codereba/simpleai/blob/master/TrueChain.md)
+[BlockChain教程中文版tps://liuchengxu.gitbooks.io/blockchain-tutorial/content/) 包括Bitcoin，Ethereum，IOTA等项目解读
+
+[EthFans Wiki](https://github.com/EthFans/wiki/wiki)
+
+### 开源项目
+#### BlockChain
+[Go语言的BlockChain实现](https://github.com/Jeiwan/blockchain_go)
+
+[Java语言的BlockChain实现](https://github.com/wangweiX/blockchain-java) 模仿上一个项目的思路，使用Java语言实现
+
+[NEO项目源码](https://github.com/neo-project/neo)
+
+[EOS项目源码](https://github.com/EOSIO/eos)
+
+[XDAG Dagger](https://github.com/XDagger/xdag) 首个可以挖矿的DAG项目
+
+#### Consensus Algorithm
+[HoneyBadgerBFT实现](https://github.com/amiller/HoneyBadgerBFT)
+
+[DPos+PBFT实现](https://github.com/sqfasd/dpos-pbft)
 
 ## 商业应用
 
