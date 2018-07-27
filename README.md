@@ -29,7 +29,7 @@ Blockchain Frontier Technology Tracking
 
 ## 学习资料
 ### 文本资料
-比特币白皮书 [英文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_en.pdf) [中文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_cn.pdf)
+[比特币白皮书 英文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_en.pdf) [中文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_cn.pdf)
 
 [精通比特币](http://zhibimo.com/read/wang-miao/mastering-bitcoin/) 精通比特币（中文翻译版）
 
@@ -39,7 +39,7 @@ Blockchain Frontier Technology Tracking
 
 [比特币Transaction入门](https://klmoney.wordpress.com/bitcoin-dissecting-transactions)
 
-比特币开发指南 [英文版](https://bitcoin.org/en/developer-guide)  [中文版](https://www.yiyibooks.cn/Gamma/bitcoin/developer-guide.html)
+[比特币开发指南 英文版](https://bitcoin.org/en/developer-guide)  [中文版](https://www.yiyibooks.cn/Gamma/bitcoin/developer-guide.html)
 
 [BlockChain教程](https://liuchengxu.gitbooks.io/blockchain-tutorial/content/) 包括Bitcoin，Ethereum，IOTA等项目解读 —— by [Liuchengxu](https://github.com/liuchengxu)
 
@@ -78,3 +78,5 @@ Blockchain Frontier Technology Tracking
 
 ### 2018.07.25
 [Google上线区块链云服务](http://cryptocoinjunky.com/google-announces-blockchain-as-apart-of-cloud-services/)
+
+欢迎大家踊跃[投稿](https://github.com/sarah21cn/BlockChainTechnology/blob/master/ContributionGuidelines.md)
