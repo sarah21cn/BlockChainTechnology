@@ -41,7 +41,7 @@ Blockchain Frontier Technology Tracking
 
 比特币开发指南 [英文版](https://bitcoin.org/en/developer-guide)  [中文版](https://www.yiyibooks.cn/Gamma/bitcoin/developer-guide.html)
 
-[BlockChain教程中文版tps://liuchengxu.gitbooks.io/blockchain-tutorial/content/) 包括Bitcoin，Ethereum，IOTA等项目解读
+[BlockChain教程](https://liuchengxu.gitbooks.io/blockchain-tutorial/content/) 包括Bitcoin，Ethereum，IOTA等项目解读 —— by [Liuchengxu](https://github.com/liuchengxu)
 
 [EthFans Wiki](https://github.com/EthFans/wiki/wiki)
 
