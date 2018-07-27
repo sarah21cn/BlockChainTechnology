@@ -23,7 +23,7 @@ Blockchain Frontier Technology Tracking
 
 [初链黄皮书解读]( https://github.com/codereba/simpleai/blob/master/TrueChain.md)
 
-[区块链中VRF的应用](https://mp.weixin.qq.com/s?__biz=MzU3NDY2MjMwMw==&mid=2247483711&idx=1&sn=9f107a9a7c8fcb34a365baf67fe80e00&chksm=fd2fb2cfca583bd9b45c508c699800f89e2bd976dab759cfb5f700c542f2c23ad3b147f57c78&mpshare=1&scene=1&srcid=0727lWK0TgX5lUDw6yVEJbdr&pass_ticket=rv7Uocqxx9gOiLNM%2Bsz0ItB6HgC%2B9grS2wKtAon83w4%3D#rd)
+[区块链中VRF的应用](https://mp.weixin.qq.com/s?__biz=MzU3NDY2MjMwMw==&mid=2247483711&idx=1&sn=9f107a9a7c8fcb34a365baf67fe80e00&chksm=fd2fb2cfca583bd9b45c508c699800f89e2bd976dab759cfb5f700c542f2c23ad3b147f57c78&mpshare=1&scene=1&srcid=0727lWK0TgX5lUDw6yVEJbdr&pass_ticket=rv7Uocqxx9gOiLNM%2Bsz0ItB6HgC%2B9grS2wKtAon83w4%3D#rd) —— by [黄祺](https://github.com/pinqy520)
 
 ## 商业应用
 
