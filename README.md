@@ -15,6 +15,8 @@ Blockchain Frontier Technology Tracking
 
 [比特币Transaction入门](https://klmoney.wordpress.com/bitcoin-dissecting-transactions)
 
+[精通比特币（中文翻译版）](http://zhibimo.com/read/wang-miao/mastering-bitcoin/)
+
 [零知识证明Part1](https://ethfans.org/posts/zero-knowledge-proofs-illustrated-primer)
 
 [零知识证明Part2](https://ethfans.org/posts/zero-knowledge-proofs-an-illustrated-primer-part-2)
