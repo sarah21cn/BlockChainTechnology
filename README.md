@@ -79,4 +79,5 @@ Blockchain Frontier Technology Tracking
 ### 2018.07.25
 [Google上线区块链云服务](http://cryptocoinjunky.com/google-announces-blockchain-as-apart-of-cloud-services/)
 
+
 欢迎大家踊跃[投稿](https://github.com/sarah21cn/BlockChainTechnology/blob/master/ContributionGuidelines.md)
