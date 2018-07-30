@@ -16,6 +16,7 @@ Blockchain Frontier Technology Tracking
 
 [共识机制中VRF的应用](https://mp.weixin.qq.com/s?__biz=MzU3NDY2MjMwMw==&mid=2247483711&idx=1&sn=9f107a9a7c8fcb34a365baf67fe80e00&chksm=fd2fb2cfca583bd9b45c508c699800f89e2bd976dab759cfb5f700c542f2c23ad3b147f57c78&mpshare=1&scene=1&srcid=0727lWK0TgX5lUDw6yVEJbdr&pass_ticket=rv7Uocqxx9gOiLNM%2Bsz0ItB6HgC%2B9grS2wKtAon83w4%3D#rd) —— by [黄祺](https://github.com/pinqy520) Tarax Network CTO
 
+
 ### 最新技术
 
 [三分钟了解隔离见证](https://zhuanlan.zhihu.com/p/32613487) 
@@ -26,6 +27,8 @@ Blockchain Frontier Technology Tracking
 
 [公有链的最新挑战Part1](https://ethfans.org/posts/fundamental-challenges-with-public-blockchains-part-1) &
 [公有链的最新挑战Part2](https://ethfans.org/posts/fundamental-challenges-with-public-blockchains-part-2)
+
+[分片设计哲学（Vitalik 为 IC3 作的关于分片的演讲](https://ethfans.org/posts/sharding-design-philosophy)
 
 ## 学习资料
 ### 文本资料
@@ -64,6 +67,8 @@ Blockchain Frontier Technology Tracking
 
 ## 商业应用
 
+[一文详解证券型代币全生态](https://www.chainnews.com/articles/771233044827.html)
+
 [看 AVINOC 如何将区块链技术带入商用航空业](https://coinidol.com/hong-kong-startup-avinoc-to-bring-blockchain-innovation-to-business-aviation/)
 
 [区块链技术改造房地产行业](https://blockchainreview.io/blockchain-in-real-estate-property-sector/)
@@ -71,13 +76,17 @@ Blockchain Frontier Technology Tracking
 [区块链在游戏领域的使用场景和挑战]( https://www.youtube.com/watch?v=K1BUdwC5Vo0&feature=youtu.be )
 
 ## 每日新闻
-### 2018.07.24
 [Hodl 加密货币投资策略](https://dailyhodl.com/2018/07/22/the-hodl-investment-strategy-from-bitcoin-to-altcoins/)
 
 [加密货币利好？G20 官方表示加密货币为金融系统和世界经济环境带来“显著的促进效益” ](https://dailyhodl.com/2018/07/23/breaking-g20-says-cryptocurrency-can-deliver-significant-benefits-to-financial-system-and-worldwide-economy/)
 
-### 2018.07.25
 [Google上线区块链云服务](http://cryptocoinjunky.com/google-announces-blockchain-as-apart-of-cloud-services/)
 
+[AI & Blockchain: An Introduction （AI 如何和区块链结合？区块链是否可以解决当前 AI 所面临的数据以及算力的问题？)]( http://mattturck.com/ai-blockchain/)
 
-欢迎大家踊跃[投稿](https://github.com/sarah21cn/BlockChainTechnology/blob/master/ContributionGuidelines.md)
+[Cryptocurrencies are money, not equity（加密货币是钱不是资产）](https://tokeneconomy.co/cryptocurrencies-are-money-not-equity-30ff8d0491bb)
+
+
+
+
+欢迎大家踊跃投稿，投稿前请先阅读[投稿须知](https://github.com/sarah21cn/BlockChainTechnology/blob/master/ContributionGuidelines.md)
