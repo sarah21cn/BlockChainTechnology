@@ -31,7 +31,7 @@ Blockchain Frontier Technology Tracking
 [公有链的最新挑战Part1](https://ethfans.org/posts/fundamental-challenges-with-public-blockchains-part-1) &
 [公有链的最新挑战Part2](https://ethfans.org/posts/fundamental-challenges-with-public-blockchains-part-2)
 
-[分片设计哲学（Vitalik 为 IC3 作的关于分片的演讲](https://ethfans.org/posts/sharding-design-philosophy)
+[分片设计哲学](https://ethfans.org/posts/sharding-design-philosophy) Vitalik 为 IC3 作的关于分片的演讲
 
 [探讨以太坊的短期扩展解决方案 英文版](https://medium.com/web3foundation/investigating-short-term-scaling-solutions-for-ethereum-a5951fee8967) [中文版](https://ethfans.org/posts/investigating-short-term-scaling-solutions-for-ethereum)
 
@@ -102,6 +102,5 @@ Blockchain Frontier Technology Tracking
 
 [我们已经知道的区块链杀手级应用](https://hackernoon.com/we-already-know-blockchains-killer-apps-f2d443eba35)
 
-
-
+## 投稿须知
 欢迎大家踊跃投稿，投稿前请先阅读[投稿须知](https://github.com/sarah21cn/BlockChainTechnology/blob/master/ContributionGuidelines.md)
