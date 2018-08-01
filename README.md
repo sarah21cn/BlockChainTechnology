@@ -7,6 +7,7 @@ Blockchain Frontier Technology Tracking
 
 [Algorand论文解读](https://mp.weixin.qq.com/s?__biz=MzU3NDY2MjMwMw==&mid=2247483815&idx=1&sn=0aaea26f8b0649a6dffdfa2ee1e46501&chksm=fd2fb257ca583b41033d833726fa956cb8c92bab42a7f36c77926ed71f5073e9a743877b6988&mpshare=1&scene=1&srcid=07316xEEKDB0aFSMb97kDzIT&pass_ticket=jUns3p50ZmHAN929itla8K5XDQ%2BLxJETtR%2F15%2BCw7hY%3D#rd)  —— by 张季恒 香港科技大学教授
 
+[PBFT vs PoA(Proof of Authority)将CAP定理应用到权限区块链](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/PBFT%20vs%20Proof-of-Authority%20.pdf)
 
 ## 技术发展
 ### 共识机制
@@ -34,8 +35,6 @@ Blockchain Frontier Technology Tracking
 [分片设计哲学](https://ethfans.org/posts/sharding-design-philosophy) Vitalik 为 IC3 作的关于分片的演讲
 
 [探讨以太坊的短期扩展解决方案 英文版](https://medium.com/web3foundation/investigating-short-term-scaling-solutions-for-ethereum-a5951fee8967) [中文版](https://ethfans.org/posts/investigating-short-term-scaling-solutions-for-ethereum)
-
-[PBFT vs PoA(Proof of Authority)将CAP定理应用到权限区块链](https://eprints.soton.ac.uk/415083/2/itasec18_main.pdf)
 
 ## 学习资料
 ### 文本资料
