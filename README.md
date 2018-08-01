@@ -33,6 +33,10 @@ Blockchain Frontier Technology Tracking
 
 [分片设计哲学（Vitalik 为 IC3 作的关于分片的演讲](https://ethfans.org/posts/sharding-design-philosophy)
 
+[探讨以太坊的短期扩展解决方案 英文版](https://medium.com/web3foundation/investigating-short-term-scaling-solutions-for-ethereum-a5951fee8967) [中文版](https://ethfans.org/posts/investigating-short-term-scaling-solutions-for-ethereum)
+
+[PBFT vs PoA(Proof of Authority)将CAP定理应用到权限区块链](https://eprints.soton.ac.uk/415083/2/itasec18_main.pdf)
+
 ## 学习资料
 ### 文本资料
 [比特币白皮书 英文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_en.pdf) [中文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_cn.pdf)
@@ -94,6 +98,9 @@ Blockchain Frontier Technology Tracking
 
 [XAIN Vehicle Network——保时捷成为第一个将区块链技术应用到车载系统的传统汽车制造商](https://medium.com/@XAIN/part-1-technical-overview-of-the-porsche-xain-vehicle-network-f70bb117be16)
 
+[使用区块链技术保存电子健康记录](http://www.sbrc2018.ufscar.br/wp-content/uploads/2018/04/07-181717-1.pdf)
+
+[我们已经知道的区块链杀手级应用](https://hackernoon.com/we-already-know-blockchains-killer-apps-f2d443eba35)
 
 
 
