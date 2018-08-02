@@ -41,6 +41,11 @@ Blockchain Frontier Technology Tracking
 ### 项目介绍
 [对话Nervos](https://mp.weixin.qq.com/s/giniWFxxAFGT0fr2qbZc_Q)
 
+[状态通道智能合约：终极安全钱包](https://medium.com/stk-token/state-channels-the-ultimate-secure-wallet-9a17da38bd77)
+
+[深入Geth理解为啥同步以太坊节点这么慢](https://hackernoon.com/getting-deep-into-geth-why-syncing-ethereum-node-is-slow-1edb04f9dc5)
+
+[理解证券型代币 (Security Token)和实用型代币 (Utility Token)的不同](https://thecoinoffering.com/learn/security-tokens-vs-utility-tokens/)
 
 ## 学习资料
 ### 文本资料
@@ -103,9 +108,14 @@ Blockchain Frontier Technology Tracking
 
 [XAIN Vehicle Network——保时捷成为第一个将区块链技术应用到车载系统的传统汽车制造商](https://medium.com/@XAIN/part-1-technical-overview-of-the-porsche-xain-vehicle-network-f70bb117be16)
 
+### 2018.08
 [使用区块链技术保存电子健康记录](http://www.sbrc2018.ufscar.br/wp-content/uploads/2018/04/07-181717-1.pdf)
 
 [我们已经知道的区块链杀手级应用](https://hackernoon.com/we-already-know-blockchains-killer-apps-f2d443eba35)
+
+[泰国最大的连锁电影院接受数字加密货币](https://www.ccn.com/thailands-largest-movie-theater-chain-will-accept-cryptocurrency/)
+
+
 
 ## 投稿须知
 欢迎大家踊跃投稿，投稿前请先阅读[投稿须知](https://github.com/sarah21cn/BlockChainTechnology/blob/master/ContributionGuidelines.md)
