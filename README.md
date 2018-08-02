@@ -47,6 +47,10 @@ Blockchain Frontier Technology Tracking
 
 [理解证券型代币 (Security Token)和实用型代币 (Utility Token)的不同](https://thecoinoffering.com/learn/security-tokens-vs-utility-tokens/)
 
+[Ioex访谈](https://mp.weixin.qq.com/s/VD9qbMqEN_YZt6e309nltw)
+
+[Celer Network 访谈](https://mp.weixin.qq.com/s/mLptSJQKoSVQpGd3VLx1Fw)
+
 ## 学习资料
 ### 文本资料
 [比特币白皮书 英文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_en.pdf) [中文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_cn.pdf)
