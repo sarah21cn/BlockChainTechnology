@@ -36,6 +36,12 @@ Blockchain Frontier Technology Tracking
 
 [探讨以太坊的短期扩展解决方案 英文版](https://medium.com/web3foundation/investigating-short-term-scaling-solutions-for-ethereum-a5951fee8967) [中文版](https://ethfans.org/posts/investigating-short-term-scaling-solutions-for-ethereum)
 
+[以太坊DPoS实现和DPoS开源分析](https://mp.weixin.qq.com/s/aTifnUB_nSWWC1pWgZIxsA)
+
+### 项目介绍
+[对话Nervos](https://mp.weixin.qq.com/s/giniWFxxAFGT0fr2qbZc_Q)
+
+
 ## 学习资料
 ### 文本资料
 [比特币白皮书 英文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_en.pdf) [中文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_cn.pdf)
