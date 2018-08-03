@@ -85,6 +85,8 @@ Blockchain Frontier Technology Tracking
 
 [XDAG Dagger](https://github.com/XDagger/xdag) 首个可以挖矿的DAG项目
 
+[IPFS](https://github.com/ipfs/ipfs)
+
 #### Consensus Algorithm
 [HoneyBadgerBFT实现](https://github.com/amiller/HoneyBadgerBFT)
 
