@@ -55,9 +55,11 @@ Blockchain Frontier Technology Tracking
 ### 文本资料
 [比特币白皮书 英文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_en.pdf) [中文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_cn.pdf)
 
-[精通比特币](http://zhibimo.com/read/wang-miao/mastering-bitcoin/) 精通比特币（中文翻译版）
+[精通比特币 英文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Book/Mastering%20Bitcoin.pdf) [中文版](http://zhibimo.com/read/wang-miao/mastering-bitcoin/) 
 
-[比特币与数字货币技术](https://www.coursera.org/learn/cryptocurrency) Coursera上普林斯顿大学的公开课（English），后续会整理中文版笔记
+[比特币与数字货币技术](https://www.coursera.org/learn/cryptocurrency) Coursera上普林斯顿大学的公开课，后续会整理中文版笔记
+
+[BlockChain Blueprint for a New Economy](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Book/blockchain%20blueprint%20for%20a%20new%20economy.pdf)
 
 [zastrin关于Ethereum只能合约开发](https://cn.zastrin.com/)
 
@@ -85,6 +87,9 @@ Blockchain Frontier Technology Tracking
 [HoneyBadgerBFT实现](https://github.com/amiller/HoneyBadgerBFT)
 
 [DPos+PBFT实现](https://github.com/sqfasd/dpos-pbft)
+
+### 论坛
+[bitcointalk](https://bitcointalk.org/)
 
 ## 商业应用
 
