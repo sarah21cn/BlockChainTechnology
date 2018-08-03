@@ -88,6 +88,9 @@ Blockchain Frontier Technology Tracking
 
 [DPos+PBFT实现](https://github.com/sqfasd/dpos-pbft)
 
+### 论坛
+[bitcointalk](https://bitcointalk.org/)
+
 ## 商业应用
 
 [一文详解证券型代币全生态](https://www.chainnews.com/articles/771233044827.html)
