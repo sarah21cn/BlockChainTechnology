@@ -55,7 +55,9 @@ Blockchain Frontier Technology Tracking
 ### 文本资料
 [比特币白皮书 英文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_en.pdf) [中文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_cn.pdf)
 
-[精通比特币 英文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Book/Mastering%20Bitcoin.pdf) [中文版](http://zhibimo.com/read/wang-miao/mastering-bitcoin/) 
+[Mastering Bitcoin 英文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Book/Mastering%20Bitcoin.pdf) [中文版](http://zhibimo.com/read/wang-miao/mastering-bitcoin/) 
+
+[Mastering Bitcoin 2nd Edition](https://github.com/bitcoinbook/bitcoinbook)
 
 [比特币与数字货币技术](https://www.coursera.org/learn/cryptocurrency) Coursera上普林斯顿大学的公开课，后续会整理中文版笔记
 
