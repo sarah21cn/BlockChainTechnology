@@ -12,7 +12,7 @@ Blockchain Frontier Technology Tracking
 ## 技术发展
 ### 共识机制
 
-[共识机制简介](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Technology/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6%E7%AE%80%E4%BB%8B.md) 关于共识机制的入门资料
+[共识机制简介](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Technology/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6%E7%AE%80%E4%BB%8B.md) 共识机制的入门资料
 
 [零知识证明Part1](https://ethfans.org/posts/zero-knowledge-proofs-illustrated-primer)  &
 [零知识证明Part2](https://ethfans.org/posts/zero-knowledge-proofs-an-illustrated-primer-part-2)
