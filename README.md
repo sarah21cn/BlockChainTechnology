@@ -109,6 +109,8 @@ Blockchain Frontier Technology Tracking
 
 [利用区块链技术对抗虚假新闻传播](https://cryptodisrupt.com/blockchain-technology-to-stop-fake-news/)
 
+[区块链和用户数据隐私](https://cryptodisrupt.com/blockchain-and-the-battle-for-user-data/)
+
 
 ## 币圈新闻
 ### 2018.07
