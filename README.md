@@ -128,6 +128,9 @@ Blockchain Frontier Technology Tracking
 
 [泰国最大的连锁电影院接受数字加密货币](https://www.ccn.com/thailands-largest-movie-theater-chain-will-accept-cryptocurrency/)
 
+[利用区块链技术对抗虚假新闻传播](https://cryptodisrupt.com/blockchain-technology-to-stop-fake-news/)
+
+
 
 
 ## 投稿须知
