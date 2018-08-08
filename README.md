@@ -105,6 +105,11 @@ Blockchain Frontier Technology Tracking
 
 [区块链在游戏领域的使用场景和挑战]( https://www.youtube.com/watch?v=K1BUdwC5Vo0&feature=youtu.be )
 
+[区块链助力传统资产交易](https://hackernoon.com/traditional-assets-not-getting-sold-look-towards-blockchain-for-an-answer-d884d23c3aa5)
+
+[利用区块链技术对抗虚假新闻传播](https://cryptodisrupt.com/blockchain-technology-to-stop-fake-news/)
+
+
 ## 币圈新闻
 ### 2018.07
 [Hodl 加密货币投资策略](https://dailyhodl.com/2018/07/22/the-hodl-investment-strategy-from-bitcoin-to-altcoins/)
@@ -127,8 +132,6 @@ Blockchain Frontier Technology Tracking
 [我们已经知道的区块链杀手级应用](https://hackernoon.com/we-already-know-blockchains-killer-apps-f2d443eba35)
 
 [泰国最大的连锁电影院接受数字加密货币](https://www.ccn.com/thailands-largest-movie-theater-chain-will-accept-cryptocurrency/)
-
-[利用区块链技术对抗虚假新闻传播](https://cryptodisrupt.com/blockchain-technology-to-stop-fake-news/)
 
 
 
