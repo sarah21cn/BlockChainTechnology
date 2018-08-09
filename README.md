@@ -38,6 +38,8 @@ Blockchain Frontier Technology Tracking
 
 [以太坊DPoS实现和DPoS开源分析](https://mp.weixin.qq.com/s/aTifnUB_nSWWC1pWgZIxsA)
 
+[5分钟理解闪电网络](https://www.youtube.com/watch?v=rrr_zPmEiME)
+
 ### 项目介绍
 [对话Nervos](https://mp.weixin.qq.com/s/giniWFxxAFGT0fr2qbZc_Q)
 
