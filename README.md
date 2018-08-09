@@ -57,6 +57,7 @@ Blockchain Frontier Technology Tracking
 
 [通过链上智能合约验证 Plasma 网络的链下状态](https://ethresear.ch/t/off-chain-plasma-state-validation-with-on-chain-smart-contract/2813)
 
+[Kyber Network 的最新进展](https://blog.kyber.network/community-and-ecosystem-updates-growing-the-decentralized-ecosystem-9a096a9205ef)
 
 
 ## 学习资料
