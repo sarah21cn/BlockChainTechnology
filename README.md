@@ -51,6 +51,12 @@ Blockchain Frontier Technology Tracking
 
 [Celer Network 访谈](https://mp.weixin.qq.com/s/mLptSJQKoSVQpGd3VLx1Fw)  Google背景团队，链下操作系统，快速确认闪电网络
 
+[Neo的新路线图旨在为智能合约的未来充电](https://dailyhodl.com/2018/08/07/neos-new-roadmap-aims-to-supercharge-the-future-of-smart-contracts/)
+
+[通过链上智能合约验证 Plasma 网络的链下状态](https://ethresear.ch/t/off-chain-plasma-state-validation-with-on-chain-smart-contract/2813)
+
+
+
 ## 学习资料
 ### 文本资料
 [比特币白皮书 英文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_en.pdf) [中文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_cn.pdf)
