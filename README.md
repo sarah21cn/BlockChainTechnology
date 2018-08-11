@@ -49,7 +49,7 @@ Blockchain Frontier Technology Tracking
 
 [理解证券型代币 (Security Token)和实用型代币 (Utility Token)的不同](https://thecoinoffering.com/learn/security-tokens-vs-utility-tokens/)
 
-[Ioex访谈](https://mp.weixin.qq.com/s/VD9qbMqEN_YZt6e309nltw)  物联网领域相关项目
+[Ioex访谈录](https://mp.weixin.qq.com/s/VD9qbMqEN_YZt6e309nltw)  物联网领域相关项目
 
 [Celer Network 访谈](https://mp.weixin.qq.com/s/mLptSJQKoSVQpGd3VLx1Fw)  Google背景团队，链下操作系统，快速确认闪电网络
 
