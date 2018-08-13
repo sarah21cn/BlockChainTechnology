@@ -40,6 +40,12 @@ Blockchain Frontier Technology Tracking
 
 [5分钟理解闪电网络](https://www.youtube.com/watch?v=rrr_zPmEiME)
 
+[A Guide to 99% Fault Tolerant Consensus (Vitalik 提出一种 99% 容错的共识算法构想)](https://vitalik.ca/general/2018/08/07/99_fault_tolerant.html)
+
+[Vitalik Buterin Proposes a Consensus Algorithm That Requires Only 1% to Be Honest](https://www.trustnodes.com/2018/08/10/vitalik-buterin-proposes-consensus-algorithm-requires-1-honest)
+
+[The Byzantine Generals Problem（Vitalik 文章中引用的论文）](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf)
+
 ### 项目介绍
 [对话Nervos](https://mp.weixin.qq.com/s/giniWFxxAFGT0fr2qbZc_Q)
 
