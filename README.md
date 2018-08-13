@@ -7,7 +7,7 @@ Blockchain Frontier Technology Tracking
 
 [Algorand论文解读](https://mp.weixin.qq.com/s?__biz=MzU3NDY2MjMwMw==&mid=2247483815&idx=1&sn=0aaea26f8b0649a6dffdfa2ee1e46501&chksm=fd2fb257ca583b41033d833726fa956cb8c92bab42a7f36c77926ed71f5073e9a743877b6988&mpshare=1&scene=1&srcid=07316xEEKDB0aFSMb97kDzIT&pass_ticket=jUns3p50ZmHAN929itla8K5XDQ%2BLxJETtR%2F15%2BCw7hY%3D#rd)  —— by 张季恒 香港科技大学教授
 
-[PBFTvsPoA(Proof of Authority) 将CAP定理应用到权限区块链](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/PBFT%20vs%20Proof-of-Authority%20.pdf)
+[PBFTvsPoA(Proof of Authority)](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/PBFT%20vs%20Proof-of-Authority%20.pdf) 将CAP定理应用到权限区块链
 
 ## 技术发展
 ### 共识机制
@@ -20,6 +20,22 @@ Blockchain Frontier Technology Tracking
 [共识机制中VRF的应用](https://mp.weixin.qq.com/s?__biz=MzU3NDY2MjMwMw==&mid=2247483711&idx=1&sn=9f107a9a7c8fcb34a365baf67fe80e00&chksm=fd2fb2cfca583bd9b45c508c699800f89e2bd976dab759cfb5f700c542f2c23ad3b147f57c78&mpshare=1&scene=1&srcid=0727lWK0TgX5lUDw6yVEJbdr&pass_ticket=rv7Uocqxx9gOiLNM%2Bsz0ItB6HgC%2B9grS2wKtAon83w4%3D#rd) —— by [黄祺](https://github.com/pinqy520) Tarax Network CTO
 
 [简评6种区块链共识机制](https://www.ecommercestrategychina.com/column/review-of-the-six-types-of-blockchain-consensus-mechanism)
+
+#### Vitalik 提出一种 99% 容错的共识算法构想
+[A Guide to 99% Fault Tolerant Consensus](https://vitalik.ca/general/2018/08/07/99_fault_tolerant.html) 
+
+[Vitalik Buterin Proposes a Consensus Algorithm That Requires Only 1% to Be Honest](https://www.trustnodes.com/2018/08/10/vitalik-buterin-proposes-consensus-algorithm-requires-1-honest)
+
+[The Byzantine Generals Problem](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf) Vitalik 文章中引用的论文
+
+[拜占庭将军问题论文的中文翻译解读：引言与结论](https://www.jianshu.com/p/b22958a3a858)
+[口头协议](https://www.jianshu.com/p/6591aea178fe)
+[书面协议](https://www.jianshu.com/p/fedb160d42b3) 
+[非全连接下的算法演变](https://www.jianshu.com/p/24bd8fc95feb)
+
+[Hacker News 上的讨论](https://news.ycombinator.com/item?id=17744648)
+[Reddit 上的讨论](https://www.reddit.com/r/ethereum/comments/95xwfz/a_guide_to_99_fault_tolerant_consensus_vitalik/)
+[10分钟理解Vitalik说的99%容错的共识算法(视频）](https://mp.weixin.qq.com/s/J7NomklRJs_t0d0UVDmdTw)
 
 ### 最新技术
 
@@ -39,12 +55,6 @@ Blockchain Frontier Technology Tracking
 [以太坊DPoS实现和DPoS开源分析](https://mp.weixin.qq.com/s/aTifnUB_nSWWC1pWgZIxsA)
 
 [5分钟理解闪电网络](https://www.youtube.com/watch?v=rrr_zPmEiME)
-
-[A Guide to 99% Fault Tolerant Consensus (Vitalik 提出一种 99% 容错的共识算法构想)](https://vitalik.ca/general/2018/08/07/99_fault_tolerant.html)
-
-[Vitalik Buterin Proposes a Consensus Algorithm That Requires Only 1% to Be Honest](https://www.trustnodes.com/2018/08/10/vitalik-buterin-proposes-consensus-algorithm-requires-1-honest)
-
-[The Byzantine Generals Problem（Vitalik 文章中引用的论文）](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf)
 
 ### 项目介绍
 [对话Nervos](https://mp.weixin.qq.com/s/giniWFxxAFGT0fr2qbZc_Q)
