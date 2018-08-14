@@ -21,6 +21,8 @@ Blockchain Frontier Technology Tracking
 
 [简评6种区块链共识机制](https://www.ecommercestrategychina.com/column/review-of-the-six-types-of-blockchain-consensus-mechanism)
 
+[新POW算法](https://blog.turtlecoin.lol/archives/introducing-cryptonight-soft-shell/)
+
 #### Vitalik 提出一种 99% 容错的共识算法构想
 [A Guide to 99% Fault Tolerant Consensus](https://vitalik.ca/general/2018/08/07/99_fault_tolerant.html) 
 
@@ -136,6 +138,7 @@ Blockchain Frontier Technology Tracking
 
 [区块链和用户数据隐私](https://cryptodisrupt.com/blockchain-and-the-battle-for-user-data/)
 
+[新的扑克牌游戏](https://www.reddit.com/r/BlockChain/comments/9735dh/new_crypto_poker_application_playing_with_eth_or/)
 
 ## 币圈新闻
 ### 2018.07
