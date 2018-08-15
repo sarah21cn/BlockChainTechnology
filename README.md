@@ -140,6 +140,8 @@ Blockchain Frontier Technology Tracking
 
 [新的扑克牌游戏](https://www.reddit.com/r/BlockChain/comments/9735dh/new_crypto_poker_application_playing_with_eth_or/)
 
+[区块链如何影响供应链行业——改进货物从生产者到消费者的流动](https://hackernoon.com/how-is-blockchain-disrupting-the-supply-chain-industry-f3a1c599daef
+
 ## 币圈新闻
 ### 2018.07
 [Hodl 加密货币投资策略](https://dailyhodl.com/2018/07/22/the-hodl-investment-strategy-from-bitcoin-to-altcoins/)
@@ -162,8 +164,6 @@ Blockchain Frontier Technology Tracking
 [我们已经知道的区块链杀手级应用](https://hackernoon.com/we-already-know-blockchains-killer-apps-f2d443eba35)
 
 [泰国最大的连锁电影院接受数字加密货币](https://www.ccn.com/thailands-largest-movie-theater-chain-will-accept-cryptocurrency/)
-
-
 
 
 ## 投稿须知
