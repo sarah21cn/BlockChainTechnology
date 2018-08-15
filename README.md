@@ -9,6 +9,10 @@ Blockchain Frontier Technology Tracking
 
 [PBFT vs PoA (Proof of Authority)](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/PBFT%20vs%20Proof-of-Authority%20.pdf) 将CAP定理应用到权限区块链
 
+[From Blockchain Consensus back to Byzantine Consensus](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Blockchain%20vs%20Byzantine.pdf)
+
+[Proof of Activity: Extending Bitcoins Proof of Work via Proof of Stake](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Proof%20of%20Activity%20Extending%20Bitcoins%20Proof%20of%20Work%20via%20Proof%20of%20Stake.pdf)
+
 ## 技术发展
 ### 共识机制
 
