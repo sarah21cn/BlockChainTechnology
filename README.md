@@ -97,7 +97,7 @@ Blockchain Frontier Technology Tracking
 
 [BlockChain Blueprint for a New Economy](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Book/blockchain%20blueprint%20for%20a%20new%20economy.pdf)
 
-[zastrin关于Ethereum只能合约开发](https://cn.zastrin.com/)
+[zastrin关于Ethereum智能合约开发](https://cn.zastrin.com/)
 
 [比特币Transaction入门](https://klmoney.wordpress.com/bitcoin-dissecting-transactions)
 
