@@ -107,6 +107,9 @@ Blockchain Frontier Technology Tracking
 
 [EthFans Wiki](https://github.com/EthFans/wiki/wiki)
 
+### 会议资料
+[BCCon 区块链大会 PPT 合集 ](https://ppt.geekbang.org/list/bccon2018?device=geekTime.ios&from=groupmessage&isappinstalled=0)
+
 ### 开源项目
 #### BlockChain
 [Go语言的BlockChain实现](https://github.com/Jeiwan/blockchain_go)
