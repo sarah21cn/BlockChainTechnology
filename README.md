@@ -152,7 +152,7 @@ Blockchain Frontier Technology Tracking
 
 [新的扑克牌游戏](https://www.reddit.com/r/BlockChain/comments/9735dh/new_crypto_poker_application_playing_with_eth_or/)
 
-[区块链如何影响供应链行业——改进货物从生产者到消费者的流动](https://hackernoon.com/how-is-blockchain-disrupting-the-supply-chain-industry-f3a1c599daef
+[区块链如何影响供应链行业](https://hackernoon.com/how-is-blockchain-disrupting-the-supply-chain-industry-f3a1c599daef)改进货物从生产者到消费者的流动
 
 ## 币圈新闻
 ### 2018.07
