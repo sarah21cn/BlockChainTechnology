@@ -162,7 +162,7 @@ Blockchain Frontier Technology Tracking
 
 [Google上线区块链云服务](http://cryptocoinjunky.com/google-announces-blockchain-as-apart-of-cloud-services/)
 
-[AI & Blockchain: An Introduction （AI 如何和区块链结合？区块链是否可以解决当前 AI 所面临的数据以及算力的问题？)]( http://mattturck.com/ai-blockchain/)
+[AI & Blockchain: An Introduction]( http://mattturck.com/ai-blockchain/) 探索AI如何和区块链结合？区块链是否可以解决当前 AI 所面临的数据以及算力的问题？
 
 [Cryptocurrencies are money, not equity（加密货币是钱不是资产）](https://tokeneconomy.co/cryptocurrencies-are-money-not-equity-30ff8d0491bb)
 
