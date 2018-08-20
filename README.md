@@ -124,6 +124,8 @@ Blockchain Frontier Technology Tracking
 
 [IPFS](https://github.com/ipfs/ipfs)
 
+[Khipu](https://github.com/khipu-io/khipu) 基于 Scala/Akka 实现的 Ethereum 协议客户端
+
 #### Consensus Algorithm
 [HoneyBadgerBFT实现](https://github.com/amiller/HoneyBadgerBFT)
 
