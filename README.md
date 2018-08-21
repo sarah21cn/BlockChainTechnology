@@ -62,7 +62,7 @@ Blockchain Frontier Technology Tracking
 
 [5分钟理解闪电网络](https://www.youtube.com/watch?v=rrr_zPmEiME)
 
-[闪电网络简介](http://go.bftf.io/coincentral.com/lightning-network-beginners-guide/)
+[闪电网络简介](http://coincentral.com/lightning-network-beginners-guide/)
 
 ### 项目介绍
 [对话Nervos](https://mp.weixin.qq.com/s/giniWFxxAFGT0fr2qbZc_Q)
@@ -83,7 +83,7 @@ Blockchain Frontier Technology Tracking
 
 [Kyber Network 的最新进展](https://blog.kyber.network/community-and-ecosystem-updates-growing-the-decentralized-ecosystem-9a096a9205ef)
 
-[Kademlia协议](http://go.bftf.io/zhuanlan.zhihu.com/p/38425656) IPFS在使用的全球分布的DHT（分布式哈希表）协议
+[Kademlia协议](https://zhuanlan.zhihu.com/p/38425656) IPFS在使用的全球分布的DHT（分布式哈希表）协议
 
 ## 学习资料
 ### 文本资料
@@ -183,8 +183,6 @@ Blockchain Frontier Technology Tracking
 [我们已经知道的区块链杀手级应用](https://hackernoon.com/we-already-know-blockchains-killer-apps-f2d443eba35)
 
 [泰国最大的连锁电影院接受数字加密货币](https://www.ccn.com/thailands-largest-movie-theater-chain-will-accept-cryptocurrency/)
-
-[区块链需要数字货币吗](http://go.bftf.io/www.coherent.cc/blog/do-blockchains-need-cryptocurrencies)
 
 ## 投稿须知
 欢迎大家踊跃投稿，投稿前请先阅读[投稿须知](https://github.com/sarah21cn/BlockChainTechnology/blob/master/ContributionGuidelines.md)
