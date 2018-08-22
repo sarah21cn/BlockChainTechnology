@@ -12,8 +12,6 @@ Blockchain Frontier Technology Tracking
     + [文本资料](#文本资料)
     + [会议资料](#会议资料)
     + [开源项目](#开源项目)
-      - [BlockChain](#blockchain)
-      - [Consensus Algorithm](#consensus-algorithm)
     + [论坛](#论坛)
   * [商业应用](#商业应用)
   * [币圈新闻](#币圈新闻)
