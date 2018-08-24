@@ -31,6 +31,8 @@ Blockchain Frontier Technology Tracking
 
 [Proof of Activity: Extending Bitcoins Proof of Work via Proof of Stake](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Proof%20of%20Activity%20Extending%20Bitcoins%20Proof%20of%20Work%20via%20Proof%20of%20Stake.pdf)
 
+[Network Dispersity-Based Consensus Network](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Network%20Dispersity-Base%20Consensus%20Network.pdf)
+
 ## 技术发展
 ### 共识机制
 
