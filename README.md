@@ -105,6 +105,8 @@ Blockchain Frontier Technology Tracking
 
 [Kademlia协议](https://zhuanlan.zhihu.com/p/38425656) IPFS在使用的全球分布的DHT（分布式哈希表）协议
 
+[Cosmos跨链详解](http://zhuanlan.zhihu.com/p/42693285)
+
 ## 学习资料
 ### 文本资料
 [比特币白皮书 英文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_en.pdf) [中文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_cn.pdf)
@@ -203,6 +205,8 @@ Blockchain Frontier Technology Tracking
 [我们已经知道的区块链杀手级应用](https://hackernoon.com/we-already-know-blockchains-killer-apps-f2d443eba35)
 
 [泰国最大的连锁电影院接受数字加密货币](https://www.ccn.com/thailands-largest-movie-theater-chain-will-accept-cryptocurrency/)
+
+[数据库还是区块链](http://go.bftf.io/blog.amalto.com/blog/blockchain-network-or-conventional-database)
 
 ## 投稿须知
 欢迎大家踊跃投稿，投稿前请先阅读[投稿须知](https://github.com/sarah21cn/BlockChainTechnology/blob/master/ContributionGuidelines.md)
