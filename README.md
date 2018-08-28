@@ -208,5 +208,15 @@ Blockchain Frontier Technology Tracking
 
 [数据库还是区块链](http://go.bftf.io/blog.amalto.com/blog/blockchain-network-or-conventional-database)
 
+[Blockchain Platforms: One Chain to rule them all?（区块链平台：一链统治全世界？）](http://hackernoon.com/blockchain-platforms-one-chain-to-rule-them-all-f3f7dda84bae)
+
+[The Store of Value Thesis（价值存储的理论](http://tokeneconomy.co/the-store-of-value-thesis-42d3cfde50a9)
+
+
+
+
+
+
+
 ## 投稿须知
 欢迎大家踊跃投稿，投稿前请先阅读[投稿须知](https://github.com/sarah21cn/BlockChainTechnology/blob/master/ContributionGuidelines.md)
