@@ -84,6 +84,9 @@ Blockchain Frontier Technology Tracking
 
 [闪电网络简介](http://coincentral.com/lightning-network-beginners-guide/)
 
+[State Channel Applications（状态通道应用](http://medium.com/statechannels/state-channel-applications-1f170e7d542e)
+
+
 ### 项目介绍
 [对话Nervos](https://mp.weixin.qq.com/s/giniWFxxAFGT0fr2qbZc_Q)
 
@@ -212,9 +215,11 @@ Blockchain Frontier Technology Tracking
 
 [The Store of Value Thesis（价值存储的理论](http://tokeneconomy.co/the-store-of-value-thesis-42d3cfde50a9)
 
+[A deductive valuation framework for cryptocurrencies（加密货币的演绎评估框架)](http://medium.com/@alexander.liegl/a-deductive-valuation-framework-for-cryptocurrencies-a6bfa085a8b6)
+作者提出了一个思维框架，分为 12 个层级，来分析和评估加密货币的价值。
 
-
-
+[Democracy on the Blockchain: Incentivizing Voter Participation through Cryptoeconomics（区块链上的民主：通过加密经济学激励选民参与）](http://btcmanager.com/democracy-blockchain-incentivizing-voter-participation-cryptoeconomics/)
+民主是否也可以通过经济激励来进行？这篇文章总结了学者在这个领域的研究结果。
 
 
 
