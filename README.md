@@ -88,6 +88,8 @@ Blockchain Frontier Technology Tracking
 
 
 ### 项目介绍
+[Nervos白皮书](https://github.com/NervosFoundation/binary/tree/master/whitepaper)
+
 [对话Nervos](https://mp.weixin.qq.com/s/giniWFxxAFGT0fr2qbZc_Q)
 
 [状态通道智能合约：终极安全钱包](https://medium.com/stk-token/state-channels-the-ultimate-secure-wallet-9a17da38bd77)
