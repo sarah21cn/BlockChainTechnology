@@ -87,6 +87,10 @@ Zero Knowledge Proofs: An illustrated primer
 
 [SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge](http://eprint.iacr.org/2013/507)
 
+[zksnark explained](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/zksnark_explained_qap.pdf)
+
+[Pinocchio: Nearly Practical Verifiable Computation](https://eprint.iacr.org/2013/279.pdf)
+
 
 ### 最新技术
 
