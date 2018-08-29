@@ -63,6 +63,20 @@ Blockchain Frontier Technology Tracking
 [Reddit 上的讨论](https://www.reddit.com/r/ethereum/comments/95xwfz/a_guide_to_99_fault_tolerant_consensus_vitalik/)
 [10分钟理解Vitalik说的99%容错的共识算法(视频）](https://mp.weixin.qq.com/s/J7NomklRJs_t0d0UVDmdTw)
 
+### 密码学
+#### 零知识证明
+The Incredible Machine（一个数独引发的惨案：零知识证明）
+[英文版](http://medium.com/qed-it/the-incredible-machine-4d1270d7363a)
+[中文版](http://zhuanlan.zhihu.com/p/34072069)
+
+Zero Knowledge Proofs: An illustrated primer
+第一篇：[英文版](http://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
+[中文版](http://mp.weixin.qq.com/s/fgenZvQUjcw-rfVmtl6ryA)
+第二篇：[英文版](http://blog.cryptographyengineering.com/2017/01/21/zero-knowledge-proofs-an-illustrated-primer-part-2/) [中文版](http://ethfans.org/posts/zero-knowledge-proofs-an-illustrated-primer-part-2)
+
+
+
+
 ### 最新技术
 
 [三分钟了解隔离见证](https://zhuanlan.zhihu.com/p/32613487) 
