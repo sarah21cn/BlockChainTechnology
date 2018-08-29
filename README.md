@@ -223,6 +223,7 @@ Blockchain Frontier Technology Tracking
 [Democracy on the Blockchain: Incentivizing Voter Participation through Cryptoeconomics（区块链上的民主：通过加密经济学激励选民参与）](http://btcmanager.com/democracy-blockchain-incentivizing-voter-participation-cryptoeconomics/)
 民主是否也可以通过经济激励来进行？这篇文章总结了学者在这个领域的研究结果。
 
+[Blockchain vs DApp](https://hackernoon.com/blockchain-vs-dapp-af62261dd721)
 
 
 ## 投稿须知
