@@ -63,6 +63,31 @@ Blockchain Frontier Technology Tracking
 [Reddit 上的讨论](https://www.reddit.com/r/ethereum/comments/95xwfz/a_guide_to_99_fault_tolerant_consensus_vitalik/)
 [10分钟理解Vitalik说的99%容错的共识算法(视频）](https://mp.weixin.qq.com/s/J7NomklRJs_t0d0UVDmdTw)
 
+### 密码学
+#### 零知识证明
+The Incredible Machine（一个数独引发的惨案：零知识证明）
+[英文版](http://medium.com/qed-it/the-incredible-machine-4d1270d7363a)
+[中文版](http://zhuanlan.zhihu.com/p/34072069)
+
+Zero Knowledge Proofs: An illustrated primer
+第一篇：[英文版](http://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
+[中文版](http://mp.weixin.qq.com/s/fgenZvQUjcw-rfVmtl6ryA)
+第二篇：[英文版](http://blog.cryptographyengineering.com/2017/01/21/zero-knowledge-proofs-an-illustrated-primer-part-2/) [中文版](http://ethfans.org/posts/zero-knowledge-proofs-an-illustrated-primer-part-2)
+
+[zkSNARKs in a Nutshell](http://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
+
+[白话零知识证明一](http://zhuanlan.zhihu.com/p/33189921)
+[白话零知识证明二](http://zhuanlan.zhihu.com/p/33307259)
+
+[不是程序员也能看懂的ZCash零知识证明[(http://zhuanlan.zhihu.com/p/24440530)
+
+[libsnark: a C++ library for zkSNARK proofs](http://github.com/scipr-lab/libsnark)
+
+[bellman: a zk-SNARK Rust library](http://github.com/zkcrypto/bellman)
+
+[SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge](http://eprint.iacr.org/2013/507)
+
+
 ### 最新技术
 
 [三分钟了解隔离见证](https://zhuanlan.zhihu.com/p/32613487) 
@@ -84,7 +109,12 @@ Blockchain Frontier Technology Tracking
 
 [闪电网络简介](http://coincentral.com/lightning-network-beginners-guide/)
 
+[State Channel Applications（状态通道应用](http://medium.com/statechannels/state-channel-applications-1f170e7d542e)
+
+
 ### 项目介绍
+[Nervos白皮书](https://github.com/NervosFoundation/binary/tree/master/whitepaper)
+
 [对话Nervos](https://mp.weixin.qq.com/s/giniWFxxAFGT0fr2qbZc_Q)
 
 [状态通道智能合约：终极安全钱包](https://medium.com/stk-token/state-channels-the-ultimate-secure-wallet-9a17da38bd77)
@@ -93,7 +123,7 @@ Blockchain Frontier Technology Tracking
 
 [理解证券型代币 (Security Token)和实用型代币 (Utility Token)的不同](https://thecoinoffering.com/learn/security-tokens-vs-utility-tokens/)
 
-[Ioex访谈录](https://mp.weixin.qq.com/s/VD9qbMqEN_YZt6e309nltw)  物联网领域相关项目
+[Ioex访谈录](https://mp.weixin.qq.com/s/VD9qbMqEN_YZt6e309nltw)  物联网领域项目
 
 [Celer Network 访谈](https://mp.weixin.qq.com/s/mLptSJQKoSVQpGd3VLx1Fw)  Google背景团队，链下操作系统，快速确认闪电网络
 
@@ -207,6 +237,19 @@ Blockchain Frontier Technology Tracking
 [泰国最大的连锁电影院接受数字加密货币](https://www.ccn.com/thailands-largest-movie-theater-chain-will-accept-cryptocurrency/)
 
 [数据库还是区块链](http://go.bftf.io/blog.amalto.com/blog/blockchain-network-or-conventional-database)
+
+[Blockchain Platforms: One Chain to rule them all?（区块链平台：一链统治全世界？）](http://hackernoon.com/blockchain-platforms-one-chain-to-rule-them-all-f3f7dda84bae)
+
+[The Store of Value Thesis（价值存储的理论](http://tokeneconomy.co/the-store-of-value-thesis-42d3cfde50a9)
+
+[A deductive valuation framework for cryptocurrencies（加密货币的演绎评估框架)](http://medium.com/@alexander.liegl/a-deductive-valuation-framework-for-cryptocurrencies-a6bfa085a8b6)
+作者提出了一个思维框架，分为 12 个层级，来分析和评估加密货币的价值。
+
+[Democracy on the Blockchain: Incentivizing Voter Participation through Cryptoeconomics（区块链上的民主：通过加密经济学激励选民参与）](http://btcmanager.com/democracy-blockchain-incentivizing-voter-participation-cryptoeconomics/)
+民主是否也可以通过经济激励来进行？这篇文章总结了学者在这个领域的研究结果。
+
+[Blockchain vs DApp](https://hackernoon.com/blockchain-vs-dapp-af62261dd721)
+
 
 ## 投稿须知
 欢迎大家踊跃投稿，投稿前请先阅读[投稿须知](https://github.com/sarah21cn/BlockChainTechnology/blob/master/ContributionGuidelines.md)
