@@ -80,7 +80,7 @@ Zero Knowledge Proofs: An illustrated primer
 [白话零知识证明一](http://zhuanlan.zhihu.com/p/33189921)
 [白话零知识证明二](http://zhuanlan.zhihu.com/p/33307259)
 
-[不是程序员也能看懂的ZCash零知识证明[(http://zhuanlan.zhihu.com/p/24440530)
+[不是程序员也能看懂的ZCash零知识证明](http://zhuanlan.zhihu.com/p/24440530)
 
 [libsnark: a C++ library for zkSNARK proofs](http://github.com/scipr-lab/libsnark)
 
