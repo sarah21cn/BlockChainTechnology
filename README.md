@@ -74,7 +74,18 @@ Zero Knowledge Proofs: An illustrated primer
 [中文版](http://mp.weixin.qq.com/s/fgenZvQUjcw-rfVmtl6ryA)
 第二篇：[英文版](http://blog.cryptographyengineering.com/2017/01/21/zero-knowledge-proofs-an-illustrated-primer-part-2/) [中文版](http://ethfans.org/posts/zero-knowledge-proofs-an-illustrated-primer-part-2)
 
+[zkSNARKs in a Nutshell](http://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
 
+[白话零知识证明一](http://zhuanlan.zhihu.com/p/33189921)
+[白话零知识证明二](http://zhuanlan.zhihu.com/p/33307259)
+
+[不是程序员也能看懂的ZCash零知识证明[(http://zhuanlan.zhihu.com/p/24440530)
+
+[libsnark: a C++ library for zkSNARK proofs](http://github.com/scipr-lab/libsnark)
+
+[bellman: a zk-SNARK Rust library](http://github.com/zkcrypto/bellman)
+
+[SNARKs for C: Verifying Program Executions Succinctly and in Zero Knowledge](http://eprint.iacr.org/2013/507)
 
 
 ### 最新技术
