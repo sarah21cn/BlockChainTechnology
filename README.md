@@ -218,7 +218,7 @@ Zero Knowledge Proofs: An illustrated primer
 
 [区块链如何影响供应链行业](https://hackernoon.com/how-is-blockchain-disrupting-the-supply-chain-industry-f3a1c599daef)改进货物从生产者到消费者的流动
 
-## 币圈新闻
+## 链圈新闻
 ### 2018.07
 [Hodl 加密货币投资策略](https://dailyhodl.com/2018/07/22/the-hodl-investment-strategy-from-bitcoin-to-altcoins/)
 
@@ -255,6 +255,13 @@ Zero Knowledge Proofs: An illustrated primer
 
 [Blockchain vs DApp](https://hackernoon.com/blockchain-vs-dapp-af62261dd721)
 
+[智能合约的入门指南](http://hackernoon.com/everything-you-need-to-know-about-smart-contracts-a-beginners-guide-c13cc138378a)
+
+[DHT分布式Hash表](http://colobu.com/2018/03/26/distributed-hash-table/) 老文章，但整理的还是比较全面
+
+[UTXO 和 Account 模型对比](http://mp.weixin.qq.com/s/2JAD-Q2NU2Q_SS9xtRVK9A)
+
+[BigQuery中的以太坊：用于智能合约分析的公共数据集](http://chinagdg.org/2018/08/ethereum-in-bigquery-a-public-dataset-for-smart-contract-analytics/)
 
 ## 投稿须知
 欢迎大家踊跃投稿，投稿前请先阅读[投稿须知](https://github.com/sarah21cn/BlockChainTechnology/blob/master/ContributionGuidelines.md)
