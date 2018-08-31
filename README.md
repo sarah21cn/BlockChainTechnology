@@ -92,6 +92,11 @@ Zero Knowledge Proofs: An illustrated primer
 
 [Pinocchio: Nearly Practical Verifiable Computation](https://eprint.iacr.org/2013/279.pdf)
 
+### 博弈论
+
+[Blockchain Mining Game](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/BlockchainMiningGames.pdf)
+
+[Bitcoin mining pools: A Cooperative Game Theoretic Analysis](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin%E5%8D%9A%E5%BC%88%E8%AE%BA%E5%88%86%E6%9E%90.pdf)
 
 ### 最新技术
 
