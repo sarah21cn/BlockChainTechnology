@@ -40,9 +40,6 @@ Blockchain Frontier Technology Tracking
 
 [共识机制简介](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Technology/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6%E7%AE%80%E4%BB%8B.md) 共识机制的入门资料
 
-[零知识证明Part1](https://ethfans.org/posts/zero-knowledge-proofs-illustrated-primer)  &
-[零知识证明Part2](https://ethfans.org/posts/zero-knowledge-proofs-an-illustrated-primer-part-2)
-
 [共识机制中VRF的应用](https://mp.weixin.qq.com/s?__biz=MzU3NDY2MjMwMw==&mid=2247483711&idx=1&sn=9f107a9a7c8fcb34a365baf67fe80e00&chksm=fd2fb2cfca583bd9b45c508c699800f89e2bd976dab759cfb5f700c542f2c23ad3b147f57c78&mpshare=1&scene=1&srcid=0727lWK0TgX5lUDw6yVEJbdr&pass_ticket=rv7Uocqxx9gOiLNM%2Bsz0ItB6HgC%2B9grS2wKtAon83w4%3D#rd) —— by [黄祺](https://github.com/pinqy520) Mizar Network CTO
 
 [简评6种区块链共识机制](https://www.ecommercestrategychina.com/column/review-of-the-six-types-of-blockchain-consensus-mechanism)
@@ -84,6 +81,9 @@ Zero Knowledge Proofs: An illustrated primer
 
 [白话零知识证明一](http://zhuanlan.zhihu.com/p/33189921)
 [白话零知识证明二](http://zhuanlan.zhihu.com/p/33307259)
+
+[零知识证明Part1](https://ethfans.org/posts/zero-knowledge-proofs-illustrated-primer)  &
+[零知识证明Part2](https://ethfans.org/posts/zero-knowledge-proofs-an-illustrated-primer-part-2)
 
 [不是程序员也能看懂的ZCash零知识证明](http://zhuanlan.zhihu.com/p/24440530)
 
@@ -143,8 +143,6 @@ Zero Knowledge Proofs: An illustrated primer
 [状态通道智能合约：终极安全钱包](https://medium.com/stk-token/state-channels-the-ultimate-secure-wallet-9a17da38bd77)
 
 [深入Geth理解为啥同步以太坊节点这么慢](https://hackernoon.com/getting-deep-into-geth-why-syncing-ethereum-node-is-slow-1edb04f9dc5)
-
-[理解证券型代币 (Security Token)和实用型代币 (Utility Token)的不同](https://thecoinoffering.com/learn/security-tokens-vs-utility-tokens/)
 
 [Ioex访谈录](https://mp.weixin.qq.com/s/VD9qbMqEN_YZt6e309nltw)  物联网领域项目
 
@@ -279,6 +277,9 @@ Zero Knowledge Proofs: An illustrated primer
 [UTXO 和 Account 模型对比](http://mp.weixin.qq.com/s/2JAD-Q2NU2Q_SS9xtRVK9A)
 
 [BigQuery中的以太坊：用于智能合约分析的公共数据集](http://chinagdg.org/2018/08/ethereum-in-bigquery-a-public-dataset-for-smart-contract-analytics/)
+
+### 2018.09
+[理解证券型代币 (Security Token)和实用型代币 (Utility Token)的不同](https://thecoinoffering.com/learn/security-tokens-vs-utility-tokens/)
 
 ## 投稿须知
 欢迎大家踊跃投稿，投稿前请先阅读[投稿须知](https://github.com/sarah21cn/BlockChainTechnology/blob/master/ContributionGuidelines.md)
