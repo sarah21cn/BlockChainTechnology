@@ -51,6 +51,8 @@ Blockchain Frontier Technology Tracking
 
 [以太坊DPoS实现和DPoS开源分析](https://mp.weixin.qq.com/s/aTifnUB_nSWWC1pWgZIxsA)
 
+[区块链共识的最终状态](http://medium.com/mechanism-labs/finality-in-blockchain-consensus-d1f83c120a9a)
+
 #### Vitalik 提出一种 99% 容错的共识算法构想
 [A Guide to 99% Fault Tolerant Consensus](https://vitalik.ca/general/2018/08/07/99_fault_tolerant.html) 
 
@@ -117,6 +119,8 @@ Zero Knowledge Proofs: An illustrated primer
 
 #### 分片
 [分片设计哲学](https://ethfans.org/posts/sharding-design-philosophy) Vitalik 为 IC3 作的关于分片的演讲
+
+[Provisioning Sharding for Smart Contracts: A Design for Zilliqa](http://blog.zilliqa.com/provisioning-sharding-for-smart-contracts-a-design-for-zilliqa-cd8d012ee735) Zilliqa 的智能合约分片设计 
 
 #### 其他
 [三分钟了解隔离见证](https://zhuanlan.zhihu.com/p/32613487) 
