@@ -49,6 +49,8 @@ Blockchain Frontier Technology Tracking
 
 [新POW算法](https://blog.turtlecoin.lol/archives/introducing-cryptonight-soft-shell/)
 
+[以太坊DPoS实现和DPoS开源分析](https://mp.weixin.qq.com/s/aTifnUB_nSWWC1pWgZIxsA)
+
 #### Vitalik 提出一种 99% 容错的共识算法构想
 [A Guide to 99% Fault Tolerant Consensus](https://vitalik.ca/general/2018/08/07/99_fault_tolerant.html) 
 
@@ -66,7 +68,7 @@ Blockchain Frontier Technology Tracking
 [10分钟理解Vitalik说的99%容错的共识算法(视频）](https://mp.weixin.qq.com/s/J7NomklRJs_t0d0UVDmdTw)
 
 ### 密码学
-#### 零知识证明
+
 The Incredible Machine（一个数独引发的惨案：零知识证明）
 [英文版](http://medium.com/qed-it/the-incredible-machine-4d1270d7363a)
 [中文版](http://zhuanlan.zhihu.com/p/34072069)
@@ -101,20 +103,8 @@ Zero Knowledge Proofs: An illustrated primer
 
 ### 最新技术
 
-[三分钟了解隔离见证](https://zhuanlan.zhihu.com/p/32613487) 
-
+#### 闪电网络
 [闪电网络优缺点介绍](https://medium.com/@argongroup/bitcoin-lightning-network-7-things-you-should-know-604ef687af5a)
-
-[初链黄皮书解读]( https://github.com/codereba/simpleai/blob/master/TrueChain.md)
-
-[公有链的最新挑战Part1](https://ethfans.org/posts/fundamental-challenges-with-public-blockchains-part-1) &
-[公有链的最新挑战Part2](https://ethfans.org/posts/fundamental-challenges-with-public-blockchains-part-2)
-
-[分片设计哲学](https://ethfans.org/posts/sharding-design-philosophy) Vitalik 为 IC3 作的关于分片的演讲
-
-[探讨以太坊的短期扩展解决方案 英文版](https://medium.com/web3foundation/investigating-short-term-scaling-solutions-for-ethereum-a5951fee8967) [中文版](https://ethfans.org/posts/investigating-short-term-scaling-solutions-for-ethereum)
-
-[以太坊DPoS实现和DPoS开源分析](https://mp.weixin.qq.com/s/aTifnUB_nSWWC1pWgZIxsA)
 
 [5分钟理解闪电网络](https://www.youtube.com/watch?v=rrr_zPmEiME)
 
@@ -122,8 +112,26 @@ Zero Knowledge Proofs: An illustrated primer
 
 [State Channel Applications（状态通道应用](http://medium.com/statechannels/state-channel-applications-1f170e7d542e)
 
+#### 侧链
+[状态通道和侧链的区别](http://hackernoon.com/difference-between-sidechains-and-state-channels-2f5dfbd10707)
+
+#### 分片
+[分片设计哲学](https://ethfans.org/posts/sharding-design-philosophy) Vitalik 为 IC3 作的关于分片的演讲
+
+#### 其他
+[三分钟了解隔离见证](https://zhuanlan.zhihu.com/p/32613487) 
+
+[公有链的最新挑战Part1](https://ethfans.org/posts/fundamental-challenges-with-public-blockchains-part-1) &
+[公有链的最新挑战Part2](https://ethfans.org/posts/fundamental-challenges-with-public-blockchains-part-2)
+
+[探讨以太坊的短期扩展解决方案 英文版](https://medium.com/web3foundation/investigating-short-term-scaling-solutions-for-ethereum-a5951fee8967) [中文版](https://ethfans.org/posts/investigating-short-term-scaling-solutions-for-ethereum)
+
+[以太坊横向扩容方案](http://ethfans.org/posts/ethereum-scaling-solutions-and-tradeoffs)
 
 ### 项目介绍
+
+[初链黄皮书解读]( https://github.com/codereba/simpleai/blob/master/TrueChain.md)
+
 [Nervos白皮书](https://github.com/NervosFoundation/binary/tree/master/whitepaper)
 
 [对话Nervos](https://mp.weixin.qq.com/s/giniWFxxAFGT0fr2qbZc_Q)
