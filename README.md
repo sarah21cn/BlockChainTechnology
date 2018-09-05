@@ -85,7 +85,7 @@ Zero Knowledge Proofs: An illustrated primer
 [零知识证明Part1](https://ethfans.org/posts/zero-knowledge-proofs-illustrated-primer)  &
 [零知识证明Part2](https://ethfans.org/posts/zero-knowledge-proofs-an-illustrated-primer-part-2)
 
-[不是程序员也能看懂的ZCash零知识证明](http://zhuanlan.zhihu.com/p/24440530)
+[ZCash零知识证明](http://zhuanlan.zhihu.com/p/24440530) 极简版
 
 [libsnark: a C++ library for zkSNARK proofs](http://github.com/scipr-lab/libsnark)
 
