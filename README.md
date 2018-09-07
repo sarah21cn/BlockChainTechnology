@@ -57,7 +57,7 @@ Blockchain Frontier Technology Tracking
 
 [The Byzantine Generals Problem](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf) Vitalik 文章中引用的论文
 
-[拜占庭将军问题论文的中文翻译解读：引言与结论](https://www.jianshu.com/p/b22958a3a858)
+[拜占庭将军问题论文的中文翻译解读](https://www.jianshu.com/p/b22958a3a858)
 [口头协议](https://www.jianshu.com/p/6591aea178fe)
 [书面协议](https://www.jianshu.com/p/fedb160d42b3) 
 [非全连接下的算法演变](https://www.jianshu.com/p/24bd8fc95feb)
