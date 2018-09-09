@@ -262,7 +262,7 @@ Zero Knowledge Proofs: An illustrated primer
 
 [The Store of Value Thesis（价值存储的理论](http://tokeneconomy.co/the-store-of-value-thesis-42d3cfde50a9)
 
-[A deductive valuation framework for cryptocurrencies（加密货币的演绎评估框架)](http://medium.com/@alexander.liegl/a-deductive-valuation-framework-for-cryptocurrencies-a6bfa085a8b6)
+[A deductive valuation framework for cryptocurrencies加密货币的演绎评估框架)](http://medium.com/@alexander.liegl/a-deductive-valuation-framework-for-cryptocurrencies-a6bfa085a8b6)
 作者提出了一个思维框架，分为 12 个层级，来分析和评估加密货币的价值。
 
 [Democracy on the Blockchain: Incentivizing Voter Participation through Cryptoeconomics（区块链上的民主：通过加密经济学激励选民参与）](http://btcmanager.com/democracy-blockchain-incentivizing-voter-participation-cryptoeconomics/)
