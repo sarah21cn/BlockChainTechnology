@@ -217,7 +217,7 @@ Zero Knowledge Proofs: An illustrated primer
 
 [一文详解证券型代币全生态](https://www.chainnews.com/articles/771233044827.html)
 
-[看 AVINOC 如何将区块链技术带入商用航空业](https://coinidol.com/hong-kong-startup-avinoc-to-bring-blockchain-innovation-to-business-aviation/)
+[看AVINOC如何将区块链技术带入商用航空业](https://coinidol.com/hong-kong-startup-avinoc-to-bring-blockchain-innovation-to-business-aviation/)
 
 [区块链技术改造房地产行业](https://blockchainreview.io/blockchain-in-real-estate-property-sector/)
 
