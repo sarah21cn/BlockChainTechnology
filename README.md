@@ -235,7 +235,7 @@ Zero Knowledge Proofs: An illustrated primer
 
 ## 链圈新闻
 ### 2018.07
-[Hodl 加密货币投资策略](https://dailyhodl.com/2018/07/22/the-hodl-investment-strategy-from-bitcoin-to-altcoins/)
+[Hodl加密货币投资策略](https://dailyhodl.com/2018/07/22/the-hodl-investment-strategy-from-bitcoin-to-altcoins/)
 
 [加密货币利好？G20 官方表示加密货币为金融系统和世界经济环境带来“显著的促进效益” ](https://dailyhodl.com/2018/07/23/breaking-g20-says-cryptocurrency-can-deliver-significant-benefits-to-financial-system-and-worldwide-economy/)
 
