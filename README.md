@@ -292,6 +292,7 @@ Zero Knowledge Proofs: An illustrated primer
  
 [STO的潜力在哪](http://mp.weixin.qq.com/s/Ymfd9uwUEkKNP8PfzAnGQA)
 
+[需要了解的加密货币概念汇总](http://medium.com/coinmonks/cryptocurrency-lingo-cheat-sheet-crypto-terms-you-need-to-know-42abc0db6fc6)
 
 ## 投稿须知
 欢迎大家踊跃投稿，投稿前请先阅读[投稿须知](https://github.com/sarah21cn/BlockChainTechnology/blob/master/ContributionGuidelines.md)
