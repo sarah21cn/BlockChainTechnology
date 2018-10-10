@@ -289,7 +289,8 @@ Zero Knowledge Proofs: An illustrated primer
 [Scaling Bitcoin 东京区块链会议结束，有视频回放](http://tokyo2018.scalingbitcoin.org/)
 
 [Cryptonetworks and the Theory of the Firm (加密网络与企业理论)](http://medium.com/@QwQiao/cryptonetworks-and-the-theory-of-the-firm-a11961a41f7c)
-
+ 
+[STO的潜力在哪](http://mp.weixin.qq.com/s/Ymfd9uwUEkKNP8PfzAnGQA)
 
 
 ## 投稿须知
