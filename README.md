@@ -158,6 +158,9 @@ Zero Knowledge Proofs: An illustrated primer
 
 [Cosmos跨链详解](http://zhuanlan.zhihu.com/p/42693285)
 
+[A Deep Look Into Cosmos — the Internet of Blockchains (深入探索 Cosmos)](http://medium.com/@juliankoh/a-deep-look-into-cosmos-the-internet-of-blockchains-af3aa1a97a5b)
+
+
 ## 学习资料
 ### 文本资料
 [比特币白皮书 英文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_en.pdf) [中文版](https://github.com/sarah21cn/BlockChainTechnology/blob/master/Research/Bitcoin/bitcoin_cn.pdf)
