@@ -160,6 +160,8 @@ Zero Knowledge Proofs: An illustrated primer
 
 [A Deep Look Into Cosmos — the Internet of Blockchains (深入探索 Cosmos)](http://medium.com/@juliankoh/a-deep-look-into-cosmos-the-internet-of-blockchains-af3aa1a97a5b)
 
+[使用新的 Scilla IDE 创建 Zilliqa 的智能合约](http://go.bftf.io/blog.zilliqa.com/budil-savant-ide-566cf6d50c07)
+
 
 ## 学习资料
 ### 文本资料
