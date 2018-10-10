@@ -237,6 +237,8 @@ Zero Knowledge Proofs: An illustrated primer
 
 [区块链如何影响供应链行业](https://hackernoon.com/how-is-blockchain-disrupting-the-supply-chain-industry-f3a1c599daef)改进货物从生产者到消费者的流动
 
+[区块链金融应用大趋势](http://www.envisioninteligence.com/industry-report/global-fintech-blockchain-market/?utm_source=redit-anusha)
+
 ## 链圈新闻
 ### 2018.07
 [Hodl加密货币投资策略](https://dailyhodl.com/2018/07/22/the-hodl-investment-strategy-from-bitcoin-to-altcoins/)
