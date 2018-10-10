@@ -160,8 +160,7 @@ Zero Knowledge Proofs: An illustrated primer
 
 [A Deep Look Into Cosmos — the Internet of Blockchains (深入探索 Cosmos)](http://medium.com/@juliankoh/a-deep-look-into-cosmos-the-internet-of-blockchains-af3aa1a97a5b)
 
-[使用新的 Scilla IDE 创建 Zilliqa 的智能合约](http://go.bftf.io/blog.zilliqa.com/budil-savant-ide-566cf6d50c07)
-
+[使用新的 Scilla IDE 创建 Zilliqa 的智能合约](http://blog.zilliqa.com/budil-savant-ide-566cf6d50c07)
 
 ## 学习资料
 ### 文本资料
@@ -285,6 +284,13 @@ Zero Knowledge Proofs: An illustrated primer
 
 ### 2018.09
 [理解证券型代币 (Security Token)和实用型代币 (Utility Token)的不同](https://thecoinoffering.com/learn/security-tokens-vs-utility-tokens/)
+
+### 2018.10
+[Scaling Bitcoin 东京区块链会议结束，有视频回放](http://tokyo2018.scalingbitcoin.org/)
+
+[Cryptonetworks and the Theory of the Firm (加密网络与企业理论)](http://medium.com/@QwQiao/cryptonetworks-and-the-theory-of-the-firm-a11961a41f7c)
+
+
 
 ## 投稿须知
 欢迎大家踊跃投稿，投稿前请先阅读[投稿须知](https://github.com/sarah21cn/BlockChainTechnology/blob/master/ContributionGuidelines.md)
