@@ -68,7 +68,7 @@ Blockchain Frontier Technology Tracking
 
 ### 密码学
 
-The Incredible Machine（一个数独引发的惨案：零知识证明）
+The Incredible Machine (一个数独引发的惨案：零知识证明）
 [英文版](http://medium.com/qed-it/the-incredible-machine-4d1270d7363a)
 [中文版](http://zhuanlan.zhihu.com/p/34072069)
 
