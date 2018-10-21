@@ -207,7 +207,7 @@ Zero Knowledge Proofs: An illustrated primer
 
 [Java语言的BlockChain实现](https://github.com/wangweiX/blockchain-java) 模仿上一个项目的思路，使用Java语言实现
 
-[Khipu](https://github.com/khipu-io/khipu) 基于 Scala/Akka 实现的 Ethereum 协议客户端
+[Khipu](https://github.com/khipu-io/khipu) 基于Scala/Akka实现的 Ethereum 协议客户端
 
 #### Consensus Algorithm
 [HoneyBadgerBFT实现](https://github.com/amiller/HoneyBadgerBFT)
