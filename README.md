@@ -63,7 +63,7 @@ Blockchain Frontier Technology Tracking
 [非全连接下的算法演变](https://www.jianshu.com/p/24bd8fc95feb)
 
 [Hacker News上的讨论](https://news.ycombinator.com/item?id=17744648)
-[Reddit 上的讨论](https://www.reddit.com/r/ethereum/comments/95xwfz/a_guide_to_99_fault_tolerant_consensus_vitalik/)
+[Reddit上的讨论](https://www.reddit.com/r/ethereum/comments/95xwfz/a_guide_to_99_fault_tolerant_consensus_vitalik/)
 [10分钟理解Vitalik说的99%容错的共识算法(视频）](https://mp.weixin.qq.com/s/J7NomklRJs_t0d0UVDmdTw)
 
 ### 密码学
